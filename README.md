@@ -1,6 +1,7 @@
 <center><h1>MicroFlaskr</h1></center>
-# The boilerplate for micro-service built with Flask and its add-ons.</h1><-
-Author: 98redoc
+> The boilerplate for micro-service built with Flask and its add-ons.</h1><-
+
+Author: 98redoc  
 Email: 98redoc@gmail.com
 
 **TODO:**
