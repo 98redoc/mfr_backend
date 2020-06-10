@@ -3,7 +3,7 @@ from flask_restplus import Resource, Namespace
 from flask import request
 
 
-api = Namespace(name='hello')
+api = Namespace(name='hello', description="Hello World!")
 
 
 @api.route('')
