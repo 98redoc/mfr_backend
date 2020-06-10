@@ -5,6 +5,7 @@ Email: 98redoc@gmail.com
 
 **TODO:**
 - [X] Application Setup
+- [X] Define and Access the Database
 
 ## References:
 1. https://flask.palletsprojects.com/en/1.1.x/tutorial/
