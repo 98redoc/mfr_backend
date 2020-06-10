@@ -4,7 +4,7 @@ Author: 98redoc
 Email: 98redoc@gmail.com
 
 **TODO:**
-- [ ] TBD
+- [X] Application Setup
 
 ## References:
 1. https://flask.palletsprojects.com/en/1.1.x/tutorial/
