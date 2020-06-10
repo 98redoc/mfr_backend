@@ -1,5 +1,5 @@
 <center><h1>MicroFlaskr</h1></center>
-> The boilerplate for micro-service built with Flask and its add-ons.</h1><-
+> The boilerplate for micro-service built with Flask and its add-ons.
 
 Author: 98redoc  
 Email: 98redoc@gmail.com
