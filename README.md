@@ -1,4 +1,4 @@
-<div align="center"><h1>MicroFlaskr</h1><br><h6>The Micro-service boilerplate built with Flask ecosystem.</h6></div>
+<h1 align="center">MicroFlaskr<br><span font-size=15px>The Micro-service boilerplate built with Flask ecosystem.</span></h1>
 
 Author: 98redoc  
 Email: 98redoc@gmail.com
