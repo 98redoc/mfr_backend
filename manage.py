@@ -1,8 +1,8 @@
 import os
 from flask_migrate import Migrate, MigrateCommand
 from flask_script import Manager
-from micro_flaskr import create_app, db
-from micro_flaskr.models import *
+from mf_backend import create_app, db
+from mf_backend.models import *
 
 
 app = create_app()

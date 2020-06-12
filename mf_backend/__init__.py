@@ -1,5 +1,7 @@
 import os
+import logging
 from flask import Flask, url_for
+from flask.logging import default_handler
 from flask_sqlalchemy import SQLAlchemy
 from . import config
 
